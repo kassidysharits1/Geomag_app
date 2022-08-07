@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import pykrige.ok import OrdinaryKriging
+from pykrige.ok import OrdinaryKriging
 
 # read in the data file using pandas dataframe
 df = pd.read_csv('DataBoxTest.csv')
