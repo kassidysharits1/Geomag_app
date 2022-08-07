@@ -1,5 +1,4 @@
-### Geomag_app
-Data gridding exercise.
+### Data gridding exercise.
 
 Please make a grid and map from the MagAnomaly data in the DataBoxTest.csv file.
 
