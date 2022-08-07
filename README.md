@@ -9,10 +9,15 @@ The DataBoxDotMap.jpg file shows a plot of the data locations, colored by MagAno
 
 
 The data file has the following data columns:
+
 X,Y = position coordinates (in meters)
+
 SurveyID = name of the marine data survey
+
 SurveyNumber = integer indentifier of data survey
+
 MagAnomaly = magnetic data survey value (in units of nanotesla)
+
 uncertainty = Survey-level uncertainty value for the MagAnomaly data column (in units of nanotesla)
 
 ### Approach and process:
