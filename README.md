@@ -21,4 +21,4 @@ MagAnomaly = magnetic data survey value (in units of nanotesla)
 uncertainty = Survey-level uncertainty value for the MagAnomaly data column (in units of nanotesla)
 
 ### Approach and process:
-The process of my work is shown both 
+The process of my work is shown both in a jupyter notebook and .py file. If running in the terminal: python3 mag_plots.py 
