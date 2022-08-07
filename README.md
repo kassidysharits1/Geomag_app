@@ -24,3 +24,5 @@ uncertainty = Survey-level uncertainty value for the MagAnomaly data column (in 
 The process of my work is shown both in a jupyter notebook and .py file. 
 
 If running in the terminal: python3 mag_plots.py 
+
+Plots creates from the .py file are stored in the "plots" directory
