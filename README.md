@@ -1,6 +1,4 @@
 # Geomag_app
-3 August 2022
-
 Data gridding exercise.
 
 Please make a grid and map from the MagAnomaly data in the DataBoxTest.csv file.
@@ -16,3 +14,6 @@ SurveyID = name of the marine data survey
 SurveyNumber = integer indentifier of data survey
 MagAnomaly = magnetic data survey value (in units of nanotesla)
 uncertainty = Survey-level uncertainty value for the MagAnomaly data column (in units of nanotesla)
+
+### Approach and process:
+The process of my work is shown both 
